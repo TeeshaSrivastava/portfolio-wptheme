@@ -1,0 +1,17 @@
+/*
+Theme Name: Teesha Portfolio Theme
+Author: Teesha Srivastava
+Description: A personal portfolio WordPress theme with hero, projects, and contact info.
+Version: 1.0
+*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1, h2 {
+  color: #1e3a8a;
+}
+section {
+  padding: 40px;
+}
