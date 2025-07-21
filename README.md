@@ -53,21 +53,9 @@ This theme is based on my earlier HTML/CSS portfolio but rebuilt fully as a Word
 
 **Teesha Srivastava**  
 🔗 [Portfolio](https://TeeshaSrivastava.github.io/PORTFOLIO/)  
-📧 your.email@example.com  
+📧 2k22.csai.32521@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/teesha-srivast
 
 
----
 
-## 💡 Inspiration
 
-This theme is based on my earlier HTML/CSS portfolio but rebuilt fully as a WordPress theme. It reflects my learning and hands-on experience with PHP, WordPress templating, and front-end integration.
-
----
-
-## 👩‍💻 Author
-
-**Teesha Srivastava**  
-🔗 [Portfolio](https://TeeshaSrivastava.github.io/PORTFOLIO/)  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/teesha-srivast
