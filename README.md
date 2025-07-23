@@ -35,7 +35,6 @@ portfolio-wp-theme/
 ├── functions.php # Theme support and menu registration
 
 ## 🚀 How to Install
-
 1. **Download** the [latest ZIP](https://github.com/TeeshaSrivastava/portfolio-wp-theme/archive/refs/heads/main.zip)
 2. Go to your WordPress dashboard:
 3. 3. Upload the `.zip` and click **Activate**
