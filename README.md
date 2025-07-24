@@ -3,7 +3,6 @@ A custom WordPress theme for personal portfolio built from scratch
 # 🎨 Teesha Portfolio WordPress Theme
 
 A custom-built **WordPress theme** for my personal developer portfolio. Designed to showcase projects, technical skills, and contact information using WordPress’s template structure and theme features.
-
 ---
 
 ## 🧩 Features
