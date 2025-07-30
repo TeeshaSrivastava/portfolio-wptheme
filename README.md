@@ -6,7 +6,6 @@ A custom-built **WordPress theme** for my personal developer portfolio. Designed
 ---
 
 ## 🧩 Features
-
 - 📌 Hero section with name and title
 - 💼 Projects section linking to GitHub repos
 - 📫 Contact section with email and LinkedIn
